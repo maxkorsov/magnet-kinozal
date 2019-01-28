@@ -15,6 +15,7 @@
 // @match        *://kinozal.guru/comment.php*
 // @run-at       document-end
 // @homepageURL  https://github.com/maxkorsov/magnet-kinozal
+// @downloadURL  https://github.com/maxkorsov/magnet-kinozal/raw/master/magnet-kinozal.user.js
 // @grant        none
 // ==/UserScript==
 

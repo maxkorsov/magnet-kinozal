@@ -1,42 +1,9 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 384.193 384.193" style="enable-background:new 0 0 384.193 384.193;" xml:space="preserve">
-<path style="fill:#D74232;" d="M192.096,0c-88.366,0-160,71.633-160,160v144.558c0,1.725,0,2.422,0,2.422c0,2.278,0,6.262,0,13.226
-	h96V160c0-35.291,28.711-64,64-64c35.29,0,64,28.709,64,64v160.207h96c0-11.674,0-14.008,0-14.386c0-0.07,0-0.094,0-0.094V160
-	C352.096,71.633,280.462,0,192.096,0z"/>
-<g>
-	<rect x="32.096" y="320.193" style="fill:#CED8DF;" width="96" height="64"/>
-	<rect x="256.096" y="320.193" style="fill:#CED8DF;" width="96" height="64"/>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 385 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <path d="M192.096,0C103.73,0 32.096,71.633 32.096,160L32.096,320.206L128.096,320.206L128.096,160C128.096,124.709 156.807,96 192.096,96C227.386,96 256.096,124.709 256.096,160L256.096,320.207L352.096,320.207C352.096,308.533 352.096,306.199 352.096,305.821C352.096,305.751 352.096,305.727 352.096,305.727L352.096,160C352.096,71.633 280.462,0 192.096,0Z" style="fill:rgb(215,66,50);fill-rule:nonzero;"/>
+    <g>
+        <rect x="32.096" y="320.193" width="96" height="64" style="fill:rgb(206,216,223);"/>
+        <rect x="256.096" y="320.193" width="96" height="64" style="fill:rgb(206,216,223);"/>
+    </g>
 </svg>
